@@ -12,9 +12,9 @@ description:      This is the Roppers blog. It contains a bunch of writing on th
 keywords:         demo theme example github jekyll features
 language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
-baseurl:          "/blog" # the subpath of your site, e.g. /blog
+baseurl:          "/" # the subpath of your site, e.g. /blog
 url:              "https://hoppersroppers.org" # the base hostname & protocol for your site. Have a look at robots.txt as well!
-permalink:        /blog/:categories/:title
+permalink:        /:categories/:title
 cover:            /assets/constitution.jpg
 
 # Build settings
