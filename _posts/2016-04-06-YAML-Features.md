@@ -12,6 +12,7 @@ redirect_from:     "/YAML-Features-Redirect/"
 cover:             /assets/mountain-alternative-cover.jpg
 language:          EN
 comments:          true
+visible:       false     
 math:			   false
 ---
 
