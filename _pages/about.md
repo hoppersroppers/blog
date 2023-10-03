@@ -1,9 +1,9 @@
 ---
 layout:    about
 permalink: "/about"
-author:    jdecent
-keywords:  about person demo example
-title:     About Jekyll Decent
+author:    dmdevey
+keywords:  about roppers dennis devey
+title:     About Dennis
 menutitle: About
 weight:    90
 excerpt:   This page contains the curriculum vitae (CV) of the author.
