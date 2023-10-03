@@ -43,3 +43,12 @@ jwillmer:
   website:      "http://jwillmer.de/cv" 
   twitter:      jenswillmer
   github:       jwillmer
+ddevey:                                                      # Fallback if nothing is specified
+  initial:      ddevey                                       # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Dennis Devey"                               # used to display author name
+  cover:        /assets/constitution.jpg                # OPTIONAL: defines location of cover image in about page
+  picture:      /assets/dennis.jpg                           # OPTIONAL: author picture
+  bio:          This is my bio!                               # OPTIONAL: text below author name in posts
+  location:     Washington, DC   
+  twitter:      deveynull
+  github:       deveynull
