@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    post
 permalink: "/breakIntoSecurity"
 author:    dmdevey
 weight:    5

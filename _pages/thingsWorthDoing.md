@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    post
 permalink: "thingsWorthDoing"
 author:    dmdevey
 weight:    5

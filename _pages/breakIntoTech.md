@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    post
 permalink: "/breakIntoTech"
 author:    dmdevey
 weight:    5

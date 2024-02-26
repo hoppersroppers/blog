@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    post
 permalink: "/startCTFteam"
 author:    dmdevey
 weight:    5
