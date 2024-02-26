@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    reference
 permalink: "/infosecCertRoadmap"
 author:    dmdevey
 weight:    5

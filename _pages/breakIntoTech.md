@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    reference
 permalink: "/breakIntoTech"
 author:    dmdevey
 weight:    5

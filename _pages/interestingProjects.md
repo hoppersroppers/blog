@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    reference
 permalink: "/interestingProjects"
 author:    dmdevey
 weight:    5
