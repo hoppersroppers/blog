@@ -3,7 +3,7 @@ layout:    post
 permalink: "/competencyBasedEdu"
 author:    dmdevey
 weight:    5
-menutitle: Ropper's Founding Whitepaper
+menutitle: Ropper's Founding Whitepaper- Competency Based Education
 title:     Applying Competency Based Education to Introductory Cyber Training
 excerpt:   How to become better at computer, as a country.
 ---

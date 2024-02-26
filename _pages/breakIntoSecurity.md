@@ -3,7 +3,7 @@ layout:    post
 permalink: "/breakIntoSecurity"
 author:    dmdevey
 weight:    5
-menutitle: Break Into Security
+menutitle: The Ropper's Guide to Breaking Into Security
 title:     The Ropper's Guide to Breaking Into Security
 excerpt:   Our take at the classic topic. tldr; git good.
 ---

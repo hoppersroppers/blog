@@ -3,7 +3,7 @@ layout:    post
 permalink: "/breakIntoTech"
 author:    dmdevey
 weight:    5
-menutitle: Break Into Tech
+menutitle: The Ropper's Guide to Breaking Into Tech
 title:     The Ropper's Guide to Breaking Into Tech
 excerpt:   Just be good at it.
 ---
