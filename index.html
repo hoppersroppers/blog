@@ -43,6 +43,7 @@ layout: default
     <h3>Reference Pages</h3>
     <ul class="category pages">       
         {% for post in site.pages %}
+        {% if post.layout == 'post' %}
         {% unless post.draft %}
 
         {% if post.menutitle %}
@@ -61,6 +62,7 @@ layout: default
             </div>
         </li>
         {% endunless %}
+        {% endif %}
         {% endfor %}
     </ul>
 
