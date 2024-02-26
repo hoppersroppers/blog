@@ -9,12 +9,12 @@
 title:            Roppers Blog
 subtitle:         All the Writings of Roppers
 description:      This is the Roppers blog. It contains a bunch of writing on the things Roppers cares about.
-keywords:         demo theme example github jekyll features
+keywords:         security fundamentals computing hacker learning how
 language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
 baseurl:          "/" # the subpath of your site, e.g. /blog
-url:              "https://hoppersroppers.org" # the base hostname & protocol for your site. Have a look at robots.txt as well!
-permalink:        /:categories/:title
+url:              "https://www.roppers.org" # the base hostname & protocol for your site. Have a look at robots.txt as well!
+permalink:        /:title
 cover:            /assets/constitution.jpg
 
 # Build settings
