@@ -43,7 +43,7 @@ layout: default
     <h3>Reference Pages</h3>
     <ul class="category pages">       
         {% for post in site.pages %}
-        {% if post.layout == 'post' %}
+        {% if post.layout == 'reference' %}
         {% unless post.draft %}
 
         {% if post.menutitle %}
