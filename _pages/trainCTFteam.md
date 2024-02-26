@@ -3,7 +3,7 @@ layout:    page
 permalink: "/trainCTFteam"
 author:    dmdevey
 weight:    5
-menutitle: How to train a CTF Team
+menutitle: How to Train a CTF Team
 title:     Roppers' Guide to Training a CTF Team
 excerpt:   You don't want your team to be bad, or worse, not have fun... Why not be good and have fun?
 ---

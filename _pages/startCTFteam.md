@@ -3,7 +3,7 @@ layout:    page
 permalink: "/startCTFteam"
 author:    dmdevey
 weight:    5
-menutitle: How to start a CTF Team
+menutitle: How to Start a CTF Team
 title:     The Roppers Guide to Starting a CTF Team
 excerpt:   Starting a CTF team is absolutely worth it, so dive in!
 ---

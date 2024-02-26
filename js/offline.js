@@ -26,6 +26,9 @@ function insertSimilarUrls(url, json, templateSelector, positionSelector, max) {
         var urls = $.map(data, function (post) {
             return post.url;
         });
+        urls += $.map(data, function (page) {
+            return page.url;
+        });
 
         var useLevenshtein = false;
         var set = FuzzySet(urls, useLevenshtein);

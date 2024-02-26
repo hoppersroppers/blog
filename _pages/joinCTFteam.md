@@ -3,7 +3,7 @@ layout:    page
 permalink: "/joinCTFteam"
 author:    dmdevey
 weight:    5
-menutitle: How to join a CTF Team
+menutitle: How to Join a CTF Team
 title:     The Roppers Guide to Joining a CTF Team
 excerpt:   Joining a CTF team is absolutely worth it, so dive in!
 ---

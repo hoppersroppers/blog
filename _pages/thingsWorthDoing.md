@@ -3,8 +3,8 @@ layout:    page
 permalink: "thingsWorthDoing"
 author:    dmdevey
 weight:    5
-menutitle: How to start a CTF Team
-title:     Roppers Things Worth Doing to Get Better
+menutitle: Ropper's List of Things Worth Doing
+title:     Roppers List of Things Worth Doing to Get Better
 excerpt:   Plenty of things aren't worth doing, these are.
 ---
 
